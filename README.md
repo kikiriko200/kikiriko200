@@ -1,4 +1,4 @@
-### Hi there 👋
+### kikiriko200's status
 
 <!--
 **kikiriko200/kikiriko200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kikiriko200&count_private=true&show_icons=true&theme=react" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikiriko200&theme=react" />
+</a>
